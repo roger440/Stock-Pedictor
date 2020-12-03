@@ -1,0 +1,2 @@
+# Stock-Pedictor
+A small personal project which aims to give an estimate on future stock prices based on different datasets. The user can choose to take into account different fields, such as the company's earnings, the company's number of employees, basically anything. The algorithm will give an indicator of the performance of the model for the given data (R^2) and allow the user to visualise the results in a plotted graph.
